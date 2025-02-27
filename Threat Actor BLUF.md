@@ -22,3 +22,9 @@ IP Address = 4 (3.125.197[.]172, 172.67.198[.]249, 104.168.48[.]208 )
 Hash Values = 1 (6f345b9fda1ceb9fe4cf58b33337bb9f820550ba08ae07c782c2e142f7323748)
 
 Domain/URL = 3 (gcdnb.pbrd.co, nginx.org, onlinetechdesk.com )
+
+MITRE ATT&CK® Techniques
+
+T1204[.]002 User Execution: Malicious File
+
+T1055[.]013 Process Injection: Process Doppelgänging
